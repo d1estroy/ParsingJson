@@ -1,0 +1,16 @@
+{
+  "name": "D1estroy",
+  "maxHealth": 100,
+  "maxMana": 50,
+  "maxPower": 80,
+  "inventory": [
+    {
+      "type": "FOOD",
+      "name": "Golden Apple"
+    },
+    {
+      "type": "AXE",
+      "name": "Iton Axe"
+    }
+  ]
+}

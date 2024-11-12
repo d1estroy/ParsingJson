@@ -1,0 +1,16 @@
+{
+  "name": "Batterfeed",
+  "maxHealth": 100,
+  "maxMana": 50,
+  "maxPower": 80,
+  "inventory": [
+    {
+      "type": "POTION",
+      "name": "Potion Of Healing"
+    },
+    {
+      "type": "PICKAXE",
+      "name": "Stone Pickaxe"
+    }
+  ]
+}
